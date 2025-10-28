@@ -237,5 +237,6 @@ namespace Lab2_LTMCB
             tb_grade2.Clear();
             tb_grade3.Clear();
         }
+
     }
 }

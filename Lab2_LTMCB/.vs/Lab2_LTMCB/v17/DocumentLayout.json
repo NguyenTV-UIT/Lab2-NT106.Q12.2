@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\",
+  "WorkspaceRootPath": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai2.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai2.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai2.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai2.cs [Design]",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai2.cs [Design]",
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwD8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:48:58.295Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-28T11:48:56.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab2.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Lab2.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Lab2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAMAAAAAAAAAA==",
+              "Title": "Bai6.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs [Design]",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T15:31:43.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T11:48:52.979Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

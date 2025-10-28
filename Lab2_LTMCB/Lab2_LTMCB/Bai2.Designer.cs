@@ -63,54 +63,73 @@
             // 
             rtb_res.Location = new Point(420, 12);
             rtb_res.Name = "rtb_res";
+            rtb_res.ReadOnly = true;
             rtb_res.Size = new Size(434, 426);
             rtb_res.TabIndex = 2;
             rtb_res.Text = "";
             // 
             // tb_filename
             // 
+            tb_filename.Enabled = false;
+            tb_filename.ForeColor = SystemColors.InactiveCaption;
             tb_filename.Location = new Point(12, 70);
             tb_filename.Name = "tb_filename";
+            tb_filename.ReadOnly = true;
             tb_filename.Size = new Size(392, 31);
             tb_filename.TabIndex = 3;
             tb_filename.Text = "Tên File";
             // 
             // tb_size
             // 
+            tb_size.Enabled = false;
+            tb_size.ForeColor = SystemColors.InactiveCaption;
             tb_size.Location = new Point(12, 123);
             tb_size.Name = "tb_size";
+            tb_size.ReadOnly = true;
             tb_size.Size = new Size(392, 31);
             tb_size.TabIndex = 4;
             tb_size.Text = "Size";
             // 
             // tb_URL
             // 
+            tb_URL.Enabled = false;
+            tb_URL.ForeColor = SystemColors.InactiveCaption;
             tb_URL.Location = new Point(12, 179);
             tb_URL.Name = "tb_URL";
+            tb_URL.ReadOnly = true;
             tb_URL.Size = new Size(392, 31);
             tb_URL.TabIndex = 5;
             tb_URL.Text = "URL";
             // 
             // tb_linecount
             // 
+            tb_linecount.Enabled = false;
+            tb_linecount.ForeColor = SystemColors.InactiveCaption;
             tb_linecount.Location = new Point(12, 233);
             tb_linecount.Name = "tb_linecount";
+            tb_linecount.ReadOnly = true;
             tb_linecount.Size = new Size(392, 31);
             tb_linecount.TabIndex = 6;
             tb_linecount.Text = "Số dòng";
             // 
             // tb_wordcount
             // 
+            tb_wordcount.Enabled = false;
+            tb_wordcount.ForeColor = SystemColors.InactiveCaption;
             tb_wordcount.Location = new Point(12, 292);
             tb_wordcount.Name = "tb_wordcount";
+            tb_wordcount.ReadOnly = true;
             tb_wordcount.Size = new Size(392, 31);
             tb_wordcount.TabIndex = 7;
             tb_wordcount.Text = "Số từ";
             // 
             // tb_charcount
             // 
+            tb_charcount.Enabled = false;
+            tb_charcount.ForeColor = SystemColors.InactiveCaption;
             tb_charcount.Location = new Point(12, 350);
             tb_charcount.Name = "tb_charcount";
+            tb_charcount.ReadOnly = true;
             tb_charcount.Size = new Size(392, 31);
             tb_charcount.TabIndex = 8;
             tb_charcount.Text = "Số kí tự";

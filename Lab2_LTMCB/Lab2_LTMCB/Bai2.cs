@@ -23,6 +23,16 @@ namespace Lab2_LTMCB
         {
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.ShowDialog();
+            try
+            {
+                if (ofd.FileName == "")
+                    throw new Exception("Chưa chọn file");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return;
+            }
             FileStream fs = new FileStream(ofd.FileName, FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(fs);
             string line = sr.ReadToEnd();
@@ -40,6 +50,7 @@ namespace Lab2_LTMCB
         private void btn_exit_Click(object sender, EventArgs e)
         {
             this.Close();
+            Application.Exit();
         }
     }
 }

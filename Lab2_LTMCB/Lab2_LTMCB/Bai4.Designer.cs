@@ -73,6 +73,7 @@
             btn_prev.TabIndex = 0;
             btn_prev.Text = "Prev";
             btn_prev.UseVisualStyleBackColor = true;
+            btn_prev.Click += btn_prev_Click;
             // 
             // btn_next
             // 
@@ -82,6 +83,7 @@
             btn_next.TabIndex = 1;
             btn_next.Text = "Next";
             btn_next.UseVisualStyleBackColor = true;
+            btn_next.Click += btn_next_Click;
             // 
             // btn_add
             // 

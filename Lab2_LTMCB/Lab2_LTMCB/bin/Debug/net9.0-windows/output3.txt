@@ -1,9 +1,6 @@
-hello -> Lỗi: Ký tự 'h' không hợp lệ.
-hi -> Lỗi: Ký tự 'h' không hợp lệ.
-1 + 1 = 2
-2 + 2 = 4
-3 - 6 = -3
-4 * 5 = 20
-9 / 9 + 1 = 2
-�i: Ký tự 'l' không hợp lệ.
+(9 * (4 + 5) / 4 + 2 -> Lỗi: Dấu ngoặc không khớp.
+toán hạng cho toán tử nhị phân.
+16 + 11 / 2006 = 16.005483549351943
+.
+lol -> Lỗi: Ký tự 'l' không hợp lệ.
 yes -> Lỗi: Ký tự 'y' không hợp lệ.
