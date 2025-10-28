@@ -1,66 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\",
+  "WorkspaceRootPath": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\lab2_ltmcb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2_ltmcb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\lab2_ltmcb\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\github\\lab2-nt106.q12.2\\lab2_ltmcb\\lab2_ltmcb\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\lab2_ltmcb\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|d:\\uit_(baihoc-baitap)\\year2_se1\\network_programing\\lab2_ltmcb\\lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630388E0-CFCD-46A6-930B-59E727AB7137}|Lab2_LTMCB\\Lab2_LTMCB.csproj|solutionrelative:lab2_ltmcb\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab2_LTMCB",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2_LTMCB.csproj",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Lab2_LTMCB.csproj",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2_LTMCB.csproj",
-              "RelativeToolTip": "Lab2_LTMCB\\Lab2_LTMCB.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T08:38:35.549Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -103,178 +62,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai1.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:57:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai1.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs [Design]",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:48:02.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Bai7.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs",
               "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai7.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs [Design]",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs [Design]",
               "RelativeToolTip": "Lab2_LTMCB\\Bai7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:39:20.129Z",
+              "WhenOpened": "2025-10-28T06:23:53.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:49:41.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai6.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs [Design]",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:39:43.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai5.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs [Design]",
+              "RelativeToolTip": "Lab2_LTMCB\\Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:31:54.564Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Lab2.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
               "RelativeDocumentMoniker": "Lab2_LTMCB\\Lab2.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs [Design]",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs [Design]",
               "RelativeToolTip": "Lab2_LTMCB\\Lab2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:36:07.984Z",
+              "WhenOpened": "2025-10-27T15:31:48.736Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bai7.Designer.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.Designer.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai7.Designer.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.Designer.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai7.Designer.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T09:21:59.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai4.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai4.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai4.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai4.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai4.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAQwJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:20:12.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai7.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai7.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai7.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai7.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T09:02:26.938Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Lab2.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
+              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
               "RelativeDocumentMoniker": "Lab2_LTMCB\\Lab2.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
+              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Github\\Lab2-NT106.Q12.2\\Lab2_LTMCB\\Lab2_LTMCB\\Lab2.cs",
               "RelativeToolTip": "Lab2_LTMCB\\Lab2.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAWwC8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:06:47.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Bai1.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai1.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai1.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:36:57.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bai4.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai4.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai4.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai4.cs [Design]",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:19:28.469Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Bai3.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai3.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai3.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai3.cs [Design]",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T08:38:52.483Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bai6.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T04:18:18.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bai6.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai6.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai6.cs [Design]",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai6.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:20:31.476Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Bai5.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai5.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs [Design]",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T15:46:20.048Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Bai3.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai3.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai3.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai3.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai3.cs",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAYwAcBAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T08:38:54.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Bai5.cs",
-              "DocumentMoniker": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs",
-              "RelativeDocumentMoniker": "Lab2_LTMCB\\Bai5.cs",
-              "ToolTip": "D:\\UIT_(BaiHoc-BaiTap)\\Year2_Se1\\Network_Programing\\Lab2_LTMCB\\Lab2_LTMCB\\Bai5.cs",
-              "RelativeToolTip": "Lab2_LTMCB\\Bai5.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA+wDgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T15:55:29.903Z",
+              "WhenOpened": "2025-10-27T15:31:43.326Z",
               "EditorCaption": ""
             }
           ]

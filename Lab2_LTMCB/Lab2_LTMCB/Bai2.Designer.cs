@@ -69,45 +69,51 @@
             // 
             // tb_filename
             // 
-            tb_filename.Location = new Point(196, 70);
+            tb_filename.Location = new Point(12, 70);
             tb_filename.Name = "tb_filename";
-            tb_filename.Size = new Size(208, 31);
+            tb_filename.Size = new Size(392, 31);
             tb_filename.TabIndex = 3;
+            tb_filename.Text = "Tên File";
             // 
             // tb_size
             // 
-            tb_size.Location = new Point(196, 123);
+            tb_size.Location = new Point(12, 123);
             tb_size.Name = "tb_size";
-            tb_size.Size = new Size(208, 31);
+            tb_size.Size = new Size(392, 31);
             tb_size.TabIndex = 4;
+            tb_size.Text = "Size";
             // 
             // tb_URL
             // 
-            tb_URL.Location = new Point(196, 179);
+            tb_URL.Location = new Point(12, 179);
             tb_URL.Name = "tb_URL";
-            tb_URL.Size = new Size(208, 31);
+            tb_URL.Size = new Size(392, 31);
             tb_URL.TabIndex = 5;
+            tb_URL.Text = "URL";
             // 
             // tb_linecount
             // 
-            tb_linecount.Location = new Point(196, 233);
+            tb_linecount.Location = new Point(12, 233);
             tb_linecount.Name = "tb_linecount";
-            tb_linecount.Size = new Size(208, 31);
+            tb_linecount.Size = new Size(392, 31);
             tb_linecount.TabIndex = 6;
+            tb_linecount.Text = "Số dòng";
             // 
             // tb_wordcount
             // 
-            tb_wordcount.Location = new Point(196, 292);
+            tb_wordcount.Location = new Point(12, 292);
             tb_wordcount.Name = "tb_wordcount";
-            tb_wordcount.Size = new Size(208, 31);
+            tb_wordcount.Size = new Size(392, 31);
             tb_wordcount.TabIndex = 7;
+            tb_wordcount.Text = "Số từ";
             // 
             // tb_charcount
             // 
-            tb_charcount.Location = new Point(196, 350);
+            tb_charcount.Location = new Point(12, 350);
             tb_charcount.Name = "tb_charcount";
-            tb_charcount.Size = new Size(208, 31);
+            tb_charcount.Size = new Size(392, 31);
             tb_charcount.TabIndex = 8;
+            tb_charcount.Text = "Số kí tự";
             // 
             // Bai2
             // 

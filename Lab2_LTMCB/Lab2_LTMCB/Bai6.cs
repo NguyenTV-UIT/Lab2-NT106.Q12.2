@@ -58,10 +58,10 @@ namespace Lab2_LTMCB
 
                     string command_ins_tb = @"
                                         INSERT INTO NGUOIDUNG (IDNCC, HoVaTen, QuyenHan)
-                                        VALUES ('ND1', 'Phan Le Tuan', 'Admin'),
-                                               ('ND2', 'Nguyen Van A', 'Guest'),
-                                               ('ND3', 'Tran Van B', 'Guest'),
-                                               ('ND4', 'Pham Thi C', 'Guest');
+                                        VALUES ('ND1', 'Truong Vinh Nguyen', 'Admin'),
+                                               ('ND2', 'Nguyen Thi Tien Phi', 'Admin'),
+                                               ('ND3', 'Truong Van Lam', 'Admin'),
+                                               ('ND4', 'Nguyen Van A', 'Guest');
                                         INSERT INTO MONAN (TenMonAn, HinhAnh, IDNCC)
                                         VALUES ('Pho Ga', 'images/phoga.jpg' , 'ND1'),
                                         ('Com Chien', 'images/com.jpg' , 'ND1'),
@@ -225,6 +225,7 @@ namespace Lab2_LTMCB
                 }
             }
             this.Close();
+            Application.Exit();
         }
     }
 }
